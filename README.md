@@ -1,4 +1,4 @@
-# Complete Machine Learning and Data Science: Zero to Mastery (2020)
+# Complete Machine Learning and Data Science: Zero to Mastery (2020) Notes
 
 ## Table of Contents
 
